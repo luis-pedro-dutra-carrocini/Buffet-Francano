@@ -15,6 +15,7 @@ Para obter uma cópia basta baixar os arquivos INDEX.HTML e STYLE.CSS, com a pas
 <img src="/prints/print1.png">
 <img src="/prints/print2.png">
 <img src="/prints/print3.png">
+<img src="/prints/print4.png">
 
 
 ## ⚙️ Código Fonte
