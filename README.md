@@ -139,7 +139,7 @@ Para obter uma cópia basta baixar os arquivos INDEX.HTML e STYLE.CSS, com a pas
 
 * Visual Studio Code - Editor de Código-Fonte;
 * HTML5 - Linguagem de Marcação;
-* * CSS- Linguagem Web de Formatação;
+* CSS- Linguagem Web de Formatação;
 
 
 ## ✒️ Autor
