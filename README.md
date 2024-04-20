@@ -7,7 +7,7 @@ Site desenvolvido na linguagem HTML e CSS, com o objetivo de cumprir a segunda a
 Para obter uma cópia basta baixar os arquivos INDEX.HTML e STYLE.CSS, com a pasta IMG, executando o arquivo em um navagador (Chrome, Edge, FireFox, etc.).
 
 
-## 🚀 [Link do Site](https://meusitetestefatec.000webhostapp.com/atv_dwi/Buffet_Francano/index.html)
+## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Buffet-Francano/index.html)
 
 
 ## 📦 Aparência
